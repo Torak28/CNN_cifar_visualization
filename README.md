@@ -16,4 +16,6 @@ Zapis *próby* pracy nad przedmiotem. Bardziej przegląd prac poniżej niż coś
 
 ## Raport:
 
+ - [pyk](https://github.com/Torak28/CNN_cifar_visualization/blob/master/report.pdf)
+
 ![gif](https://media1.giphy.com/media/VnMriheKted0I/giphy.gif?cid=790b76116fbd6735950a7bd6b04ad642fc177dd916b6754f&rid=giphy.gif)
